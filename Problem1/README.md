@@ -52,19 +52,19 @@ $$
 Sum of multiples of 3 below 1000:
 
 $$
-\text{sum\_3} = 3 \cdot \frac{333 \cdot 334}{2}
+S_3 = 3 \cdot \frac{333 \cdot 334}{2}
 $$
 
 Sum of multiples of 5 below 1000:
 
 $$
-\text{sum\_5} = 5 \cdot \frac{199 \cdot 200}{2}
+S_5 = 5 \cdot \frac{199 \cdot 200}{2}
 $$
 
 Sum of multiples of 15 below 1000:
 
 $$
-\text{sum\_15} = 15 \cdot \frac{66 \cdot 67}{2}
+S_{15} = 15 \cdot \frac{66 \cdot 67}{2}
 $$
 
 ---
@@ -72,7 +72,7 @@ $$
 ### Step 2: Total sum
 
 $$
-\text{Sum of multiples of 3 or 5 below 1000} = \text{sum\_3} + \text{sum\_5} - \text{sum\_15}
+S = S_3 + S_5 - S_{15}
 $$
 
 ---
